@@ -7,11 +7,8 @@ Tasks and Assignments that need to be added
 EYAD HAYDAR
 
 NICK LANGLEY
-<<<<<<< HEAD
 
-FIN 'BAW$' CRANTOCK
-=======
-Hello Is this the updated version?
-FIN CRANTOCK
-Fin What do you want to do?
->>>>>>> origin/master
+FIN 'BAW$' CRANTOCK: 26904954
+1)powerpoint speacalist
+
+
