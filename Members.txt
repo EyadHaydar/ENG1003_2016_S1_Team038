@@ -10,20 +10,6 @@ EYAD HAYDAR
 
 What is the standard Deviation of a Genius?
 
-
 NICK LANGLEY
-<<<<<<< HEAD
 
 FIN 'BAW$' CRANTOCK
-=======
-Hello Is this the updated version?
-
-
-FIN CRANTOCK
-Fin What do you want to do?
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
-
-What are the publishing issues?
->>>>>>> origin/master
