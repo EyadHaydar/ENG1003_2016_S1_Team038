@@ -10,6 +10,11 @@ EYAD HAYDAR
 
 What is the standard Deviation of a Genius?
 
+<<<<<<< HEAD
 NICK LANGLEY
 
 FIN 'BAW$' CRANTOCK
+=======
+
+NICK LANGL
+>>>>>>> origin/master
