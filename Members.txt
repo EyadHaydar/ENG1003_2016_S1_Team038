@@ -10,11 +10,32 @@ EYAD HAYDAR
 
 What is the standard Deviation of a Genius?
 
+
 <<<<<<< HEAD
 NICK LANGLEY
+Hello Is this the updated version?
 
-FIN 'BAW$' CRANTOCK
+
+FIN CRANTOCK
+Fin What do you want to do?
+
+What are the publishing issues?
+
+
+Testing date of Serials
+
+Serial Numbers
+
+100
+101
+102
+104
+108
+Glass
+%Matlab Folder Polegras
 =======
-
 NICK LANGL
 >>>>>>> origin/master
+
+
+Starting Issues That we Need to Talk about for Assignment #2:
